@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # E-commerce Sales Analysis Project
 
 ## Overview
@@ -33,7 +32,3 @@ This interactive dashboard provides insights into Sales KPIs and category-wise a
 
 - Data visualization tool (e.g., Tableau)
 - E-commerce sales dataset
-=======
-# Ecommerce_Sales_Dashboard
-This interactive dashboard gives insights into Sales KPIs and Category wise analysis for different Markets and Customer Segments.
->>>>>>> refs/remotes/origin/main
