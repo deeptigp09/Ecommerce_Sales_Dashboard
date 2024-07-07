@@ -32,3 +32,5 @@ This interactive dashboard provides insights into Sales KPIs and category-wise a
 
 - Data visualization tool (e.g., Tableau)
 - E-commerce sales dataset
+
+## [Tableau Public Link](https://public.tableau.com/app/profile/deepti.guruprasad/viz/EcommerceSales_17202175485660/Dashboard1)
